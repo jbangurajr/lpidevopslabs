@@ -4,7 +4,7 @@
 
 ## Getting started
 
-![BOOK2](https://www.amazon.com/PRACTICAL-DEVOPS-TOOLS-Preparing-Certification-ebook/dp/B0B5PK5P9V?ref_=ast_author_dp)
+![BOOK](C:\Users\jbang\Documents\LPI DevOps Tools Engineer\lpidevops\practicaldevopstools.png)
 
 ## pre-requisites 
 
@@ -12,9 +12,9 @@ It is necessary to have basic knowledge of linux.
 
 ## Instructions for use
 
-- Understand the DevOps concepts through the course material (PRACTICAL DEVOPS TOOLS.pdf).
+- Understand the DevOps concepts through the course material [PRACTICAL DEVOPS TOOLS.pdf](https://github.com/jbangurajr/lpidevopslabs/blob/main/PRACTICAL%20DEVOPS%20TOOLS.pdf).
 
-- Complete the practical cases (with the book available on Amazon : https://www.amazon.com/PRACTICAL-DEVOPS-TOOLS-Preparing-Certification-ebook/dp/B0B5PK5P9V?ref_=ast_author_dp)) as you go along in order to consolidate the notions learned in the course material.
+- Complete the practical cases with the book available on [Amazon](https://www.amazon.com/PRACTICAL-DEVOPS-TOOLS-Preparing-Certification-ebook/dp/B0B5PK5P9V?ref_=ast_author_dp) as you go along in order to consolidate the notions learned in the course material.
 
 
 ## Summary
