@@ -4,7 +4,7 @@
 
 ## Getting started
 
-![BOOK2](/uploads/2ce138ee3d48dcfd8b4f4296739a3a08/BOOK2.PNG)
+![BOOK2](https://www.amazon.com/PRACTICAL-DEVOPS-TOOLS-Preparing-Certification-ebook/dp/B0B5PK5P9V?ref_=ast_author_dp)
 
 ## pre-requisites 
 
@@ -12,9 +12,9 @@ It is necessary to have basic knowledge of linux.
 
 ## Instructions for use
 
-- Understand the DevOps concepts through the course material (PRACTICAL DEVOPS TOOLS.pdf) available here. 
+- Understand the DevOps concepts through the course material (PRACTICAL DEVOPS TOOLS.pdf).
 
-- Complete the practical cases (with the book available on Amazon : https://www.amazon.fr/dp/B0B5PK5P9V/ ) as you go along in order to consolidate the notions learned in the course material.
+- Complete the practical cases (with the book available on Amazon : https://www.amazon.com/PRACTICAL-DEVOPS-TOOLS-Preparing-Certification-ebook/dp/B0B5PK5P9V?ref_=ast_author_dp)) as you go along in order to consolidate the notions learned in the course material.
 
 
 ## Summary
@@ -38,7 +38,7 @@ MODULE 10   | Log analysis with ELK(ELASTICSEARCH-LOGSTASH-KIBANA)
 
 ## Support
 
-All the practices carried out with the help of this manual have been successfully tested. In case you have difficulties in implementing any of the application examples, please follow the instructions for each module, if necessary contact us (gilbert.toussido@gmail.com).
+All the practices carried out with the help of this manual have been successfully tested. In case you have difficulties in implementing any of the application examples, please follow the instructions for each module.
 
 
 
