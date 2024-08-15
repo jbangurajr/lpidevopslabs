@@ -4,7 +4,7 @@
 
 ## Getting started
 
-![BOOK](C:\Users\jbang\Documents\LPI DevOps Tools Engineer\lpidevops\practicaldevopstools.png)
+![BOOK](https://raw.githubusercontent.com/jbangurajr/lpidevopslabs/main/practicaldevopstools.png)
 
 ## pre-requisites 
 
