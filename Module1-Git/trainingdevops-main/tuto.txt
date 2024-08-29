@@ -1,8 +1,4 @@
 Go from zero to hero with Git source control 
 
-This training is made by Gilbert Fongan for the
-preparation of LPI DevOps Tools Engineer
-
 Example for editing files
 
-Another modification
